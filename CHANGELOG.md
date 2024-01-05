@@ -1,5 +1,10 @@
 # Flaggen Changelog
 
+## Version 1.0.1 (2024-01-05)
+
+* Fix: Klasse Flaggen nicht in UTF8
+* Change: ISO-Code HRV -> CRO, CHE -> SUI, SVN -> SLO
+
 ## Version 1.0.0 (2024-01-05)
 
 * Add: Flaggen als SVG hinzugefügt und Klasse Flaggen fertiggestellt
