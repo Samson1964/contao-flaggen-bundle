@@ -11,4 +11,4 @@
  * @copyright Frank Hoppe 2024
  */
  
-$GLOBALS['TL_HOOKS']['replaceInsertTags'][] = array('Schachbulle\ContaoHelperBundle\Classes\Flaggen', 'run');
+$GLOBALS['TL_HOOKS']['replaceInsertTags'][] = array('Schachbulle\ContaoFlaggenBundle\Classes\Flaggen', 'run');
