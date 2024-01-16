@@ -244,7 +244,7 @@ class Flaggen extends \Frontend
 			'SUR' => array('code' => 'sr', 'name' => 'Suriname'),
 			'SVK' => array('code' => 'sk', 'name' => 'Slowakei'),
 			'SWE' => array('code' => 'se', 'name' => 'Schweden'),
-			'SWZ' => array('code' => 'sz', 'name' => 'Eswatini[4]'),
+			'SWZ' => array('code' => 'sz', 'name' => 'Eswatini'),
 			'SXM' => array('code' => 'sx', 'name' => 'Sint Maarten'),
 			'SYC' => array('code' => 'sc', 'name' => 'Seychellen'),
 			'SYR' => array('code' => 'sy', 'name' => 'Syrien'),

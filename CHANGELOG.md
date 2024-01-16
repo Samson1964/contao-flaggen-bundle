@@ -1,5 +1,9 @@
 # Flaggen Changelog
 
+## Version 1.0.2 (2024-01-16)
+
+* Change: README mit kompletter Anleitung
+
 ## Version 1.0.1 (2024-01-05)
 
 * Fix: Klasse Flaggen nicht in UTF8
