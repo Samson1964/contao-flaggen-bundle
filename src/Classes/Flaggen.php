@@ -60,6 +60,7 @@ class Flaggen extends \Frontend
 			'BRB' => array('code' => 'bb', 'name' => 'Barbados'),
 			'BRN' => array('code' => 'bn', 'name' => 'Brunei'),
 			'BTN' => array('code' => 'bt', 'name' => 'Bhutan'),
+			'BUL' => array('code' => 'bg', 'name' => 'Bulgarien'),
 			'BUR' => array('code' => 'bu', 'name' => 'Burma (jetzt Myanmar)'),
 			'BVT' => array('code' => 'bv', 'name' => 'Bouvetinsel'),
 			'BWA' => array('code' => 'bw', 'name' => 'Botswana'),

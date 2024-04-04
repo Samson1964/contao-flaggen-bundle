@@ -1,5 +1,9 @@
 # Flaggen Changelog
 
+## Version 1.0.3 (2024-04-04)
+
+* Add: ISO-Code BUL (zusätzlich zu BGR)
+
 ## Version 1.0.2 (2024-01-16)
 
 * Change: README mit kompletter Anleitung
